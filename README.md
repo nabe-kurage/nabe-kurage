@@ -3,11 +3,10 @@
 🦩👾🦩👾🦩👾🦩👾🦩👾🦩👾🦩👾🦩👾🦩👾🦩👾🦩👾🦩👾🦩👾🦩👾🦩👾🦩👾🦩👾🦩👾🦩👾🦩👾🦩👾🦩👾🦩👾🦩👾
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabe-kurage&show_icons=true&theme=radical)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabe-kurage&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabe-kurage&layout=compact&theme=radical" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=nabe-kurage&show_icons=true&theme=radical" />
+</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nabe-kurage&theme=discord&rank=-C,-?)](https://github.com/ryo-ma/github-profile-trophy)
 
