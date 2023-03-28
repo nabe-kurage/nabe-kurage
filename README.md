@@ -4,8 +4,8 @@
 
 
 <div style="color"> 
-  <img alt="Top Langs" height="200px" class="test" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabe-kurage&layout=compact&theme=radical" />
-  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=nabe-kurage&show_icons=true&theme=radical" />
+  <img alt="Top Langs" height="180px" class="test" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabe-kurage&layout=compact&theme=radical" />
+  <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=nabe-kurage&show_icons=true&theme=radical" />
 </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nabe-kurage&theme=discord&rank=-C,-?)](https://github.com/ryo-ma/github-profile-trophy)
